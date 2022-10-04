@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @ST-Chara
 - 👀 I’m interested in Teeworlds.
 - 🌱 I’m currently learning C++ .
+- BTW!!! IM ONLY 12-YEARS-OLD, MY CHINESE NAME IS 杨岱谦
+
+
 <!--- - 💞️ I’m looking to collaborate on ... ---!>
 - 📫 How to reach me : TeeFlowerFell-Sans#9358
 
