@@ -2,7 +2,7 @@
 - 👀 I’m interested in Teeworlds.
 - 🌱 I’m currently learning C++ .
 - BTW!!! IM ONLY 12-YEARS-OLD, MY CHINESE NAME IS 杨岱谦
-
+- **AND**, MIDDLE SCHOOL
 
 <!--- - 💞️ I’m looking to collaborate on ... ---!>
 - 📫 How to reach me : TeeFlowerFell-Sans#9358
