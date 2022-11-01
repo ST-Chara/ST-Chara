@@ -6,10 +6,13 @@
 
 <!--- - 💞️ I’m looking to collaborate on ... ---!>
 - 📫 How to reach me : TeeFlowerFell-Sans#9358
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ST-Chara&show_icons=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ST-Chara&theme=algolia)
+<img align="right" src="" />
 
 <!---
 phone-burner/phone-burner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PCX-LK&theme=algolia)
