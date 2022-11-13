@@ -15,6 +15,10 @@ You can click the Preview link to take a look at your changes.
 
 - ST-Chara:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ST-Chara&theme=algolia)
+<img src="https://github-readme-stats.vercel.app/api?username=ST-Chara&show_icons=true" />
+
+- **AND**
 
 - PCX-LK
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PCX-LK&theme=algolia)
+<img src="https://github-readme-stats.vercel.app/api?username=PCX-LK&show_icons=true" />
